@@ -47,9 +47,9 @@
     color: white;
     padding: 1rem 2rem;
     font-family: Arial, sans-serif;
-    position: sticky; /* Makes the navbar sticky */
-    top: 0; /* Sticks it to the top of the viewport */
-    z-index: 1000; /* Ensures the navbar stays above other elements */
+    position: sticky; 
+    top: 0; 
+    z-index: 1000; 
   }
   
   .logo {
